@@ -1,3 +1,3 @@
 # WDIC-Aufgabe
 
-Das ist Teil der Hausübung
+Das ist Teil der Hausübung!
